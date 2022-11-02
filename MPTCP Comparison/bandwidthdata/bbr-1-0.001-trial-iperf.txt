@@ -1,0 +1,17 @@
+1663201889.244252 Connecting to host 192.168.3.1, port 5101
+1663201889.244372 [  4] local 192.168.10.2 port 58066 connected to 192.168.3.1 port 5101
+1663201889.244394 [ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+1663201889.244409 [  4]   0.00-0.10   sec  1.00 MBytes  83.8 Mbits/sec    0   5.66 KBytes       
+1663201889.244423 [  4]   0.10-0.20   sec  2.93 MBytes   245 Mbits/sec    0   5.66 KBytes       
+1663201889.244436 [  4]   0.20-0.30   sec  1.04 MBytes  87.2 Mbits/sec    0   5.66 KBytes       
+1663201889.244449 [  4]   0.30-0.40   sec   816 KBytes  66.9 Mbits/sec    0   5.66 KBytes       
+1663201889.244462 [  4]   0.40-0.50   sec  1.10 MBytes  92.4 Mbits/sec    0   5.66 KBytes       
+1663201889.244476 [  4]   0.50-0.60   sec  1.41 MBytes   119 Mbits/sec    0   5.66 KBytes       
+1663201889.244490 [  4]   0.60-0.70   sec   941 KBytes  76.8 Mbits/sec    0   5.66 KBytes       
+1663201889.244504 [  4]   0.70-0.80   sec  1.16 MBytes  97.5 Mbits/sec    0   5.66 KBytes       
+1663201889.244518 [  4]   0.80-0.86   sec  0.00 Bytes  0.00 Mbits/sec    0   5.66 KBytes       
+1663201889.244533 - - - - - - - - - - - - - - - - - - - - - - - - -
+1663201889.244547 [ ID] Interval           Transfer     Bandwidth       Retr
+1663201889.244561 [  4]   0.00-0.86   sec  10.4 MBytes   101 Mbits/sec    0             sender
+1663201889.244575 [  4]   0.00-0.86   sec  0.00 Bytes  0.00 Mbits/sec                  receiver
+1663201889.244588 iperf3: interrupt - the client has terminated

@@ -1,0 +1,6 @@
+1,reno,384000,95.3,96.1,Mbits/sec,latency,47.8168
+1,pcc,384000,83.7,93.6,Mbits/sec,latency,44.3672
+1,balia,384000,1,reno,0.001,92.9,reno,99.0,latency,41.3179
+1,pcc,0.001,102,reno,81.4,latency,41.3702
+1,balia,0.001,94.9,reno,94.8,latency,38.1728
+1,bbr,0.001,
