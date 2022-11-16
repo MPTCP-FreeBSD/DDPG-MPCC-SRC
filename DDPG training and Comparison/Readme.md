@@ -46,4 +46,17 @@ Install dependent libraries for running the python notebook.
 ```
 
 
+## Authors
+
+Contributors names and contact info
+
+Leaders:
+
+- Shiva Pokhrel <shiva.pokhrel@deakin.edu.au>
+- Jonathan Kua <jonathan.kua@deakin.edu.au>
+
+Members:
+
+- Deol Satish <dsatish@deakin.edu.au>
+
 
