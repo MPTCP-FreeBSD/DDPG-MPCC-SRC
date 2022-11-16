@@ -4,59 +4,46 @@ In this we run our DDPG and compare results with MPCC.
 
 ## Description
 
-*-rlinputdata.csv : This contains Date_and_Time,Session_Time,rate,total_rate,sequences,sent,lost,util,old_util,thpt and loss_rate 
+*-rlinputdata.csv : This contains infomation about various environment condition and transmission rates while running MPCC. This will allow us to train our DDPG model to choose the most optimium rate in a particular environment.
+
+*-DDPG_train.ipynb : This file trains the DDPG model for 100 episodes and save the results in avg_reward_list.csv,new_states_dict.pkl and states_record.pkl
+
+*-DDPG_gen_graph.ipynb : This generates three graphs based on data we get from our training session.
 
 ## Getting Started
 
+Clone this repository first.
+
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Python 3.9.13 or Higher
+
+Libraries required:
+* gym - v0.21.0
+* tensorflow - v2.8.2
+* keras - v2.8.0
+* numpy - v1.23.3
+* matplotlib -v3.5.2
+* pandas - v1.4.4
+
+
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+*Install python on your systems (Annaconda is easy to configure the versions of python and installed libraries)
+
+OR
+
+*You can upload rlinputdata.csv and DDPG_train.ipynb to google colab or use Jupyter notebooks
+
+Then,
+
+Install dependent libraries for running the python notebook.
 
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
+* Execute Run all to execute both DDPG_train.ipynb and then DDPG_gen_graph.ipynb
 ```
 
-## Help
 
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
-
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-## Acknowledgments
-
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
