@@ -1,4 +1,4 @@
-# Research-Project-Honors---SIT-723
+# Experimental Implementation of new Multipath TCP and AQM in FreeBSD
 Author: Deol Satish
 
 We have the following folders:
