@@ -1,7 +1,17 @@
 # Code for cloudlab
 
+Before starting this setup is referenced from https://witestlab.poly.edu/blog/mpcc-online-learning-multipath-congestion-control/ developed by Ashutosh Srivastava.
+
+Till Section 2 We follow the same instrucitons given in the [blog](https://witestlab.poly.edu/blog/mpcc-online-learning-multipath-congestion-control/).
+
+
+
+
+
+
 For ifconfig enp ; Check out link: https://www.freedesktop.org/software/systemd/man/systemd.net-naming-scheme.html
 For route add: https://linuxtect.com/linux-route-add-command-tutorial-with-examples/ - Basically it adds a new route for a specific network -net shows destination -gw is the network first hop
+
 
 
 
