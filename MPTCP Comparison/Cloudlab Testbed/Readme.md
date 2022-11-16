@@ -4,7 +4,8 @@ Before starting this setup is referenced from https://witestlab.poly.edu/blog/mp
 
 Till Section 2 We follow the same instrucitons given in the [blog](https://witestlab.poly.edu/blog/mpcc-online-learning-multipath-congestion-control/).
 
-
+In section 1, the numbers above the block of code tells the order in which that piece of code should be executed.
+if the number is 1, then execute all commands with 1 and all blocks of code with 2 etc.
 
 
 
