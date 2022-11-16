@@ -330,7 +330,15 @@ grep -q -f $HOME/.ssh/id_rsa.pub $HOME/.ssh/authorized_keys || cat $HOME/.ssh/id
 
 
 ```python
-Run both bandwidth-iperf.sh and loss-iperf.sh files to get data stored in losspercentagedata and bandwidthdata
+Run both bandwidth-iperf.sh and loss-iperf.sh files to get data stored in losspercentagedata and bandwidthdata.
+
+One Main modification you might require in the scripts is to change the ssh details.
+We ssh into router1, router2 to change buffer and ssh into emulator1 and emulator2 to add loss into the testbed.
+You might change from the SSH server name to SSH server url if just the name does not work.
+
+
+
+
 ```
 
 
