@@ -20,9 +20,9 @@ do
 
                         sudo ssh router2 -f sudo tc qdisc replace dev enp6s0f0 parent 1:3 handle 3: bfifo limit 384000
 
-                        sudo ssh -p 22 dsatish@c220g2-011107.wisc.cloudlab.us -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
+                        sudo ssh -p 22 emulator1 -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
 
-                        sudo ssh -p 22 dsatish@c220g2-011108.wisc.cloudlab.us -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
+                        sudo ssh -p 22 emulator2 -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
 
                         sudo sysctl -w net.ipv4.tcp_congestion_control=$i
 
@@ -92,9 +92,9 @@ do
 
                         sudo ssh router2 -f sudo tc qdisc replace dev enp6s0f0 parent 1:3 handle 3: bfifo limit 384000
 
-                        sudo ssh -p 22 dsatish@c220g2-011107.wisc.cloudlab.us -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
+                        sudo ssh -p 22 emulator1 -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
 
-                        sudo ssh -p 22 dsatish@c220g2-011108.wisc.cloudlab.us -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
+                        sudo ssh -p 22 emulator2 -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
 
                         sudo sysctl -w net.ipv4.tcp_congestion_control=$i
 
@@ -160,10 +160,9 @@ do
 
                         sudo ssh router2 -f sudo tc qdisc replace dev enp6s0f0 parent 1:3 handle 3: bfifo limit 384000
 
+                        sudo ssh -p 22 emulator1 -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
 
-                        sudo ssh -p 22 dsatish@c220g2-011107.wisc.cloudlab.us -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
-
-                        sudo ssh -p 22 dsatish@c220g2-011108.wisc.cloudlab.us -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
+                        sudo ssh -p 22 emulator2 -f sudo tc qdisc replace dev enp6s0f1 root netem loss $b% delay 30ms limit 60000
 
                         sudo sysctl -w net.ipv4.tcp_congestion_control=$i
 
