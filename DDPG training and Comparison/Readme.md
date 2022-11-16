@@ -16,7 +16,7 @@ Clone this repository first.
 
 ### Dependencies
 
-* Python 3.9.13 or Higher
+* Python v3.9.13 or Higher
 
 Libraries required:
 * gym - v0.21.0
