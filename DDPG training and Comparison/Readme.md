@@ -4,11 +4,11 @@ In this we run our DDPG and compare results with MPCC.
 
 ## Description
 
-*-rlinputdata.csv : This contains infomation about various environment condition and transmission rates while running MPCC. This will allow us to train our DDPG model to choose the most optimium rate in a particular environment.
+*rlinputdata.csv : This contains infomation about various environment condition and transmission rates while running MPCC. This will allow us to train our DDPG model to choose the most optimium rate in a particular environment.
 
-*-DDPG_train.ipynb : This file trains the DDPG model for 100 episodes and save the results in avg_reward_list.csv,new_states_dict.pkl and states_record.pkl
+*DDPG_train.ipynb : This file trains the DDPG model for 100 episodes and save the results in avg_reward_list.csv,new_states_dict.pkl and states_record.pkl
 
-*-DDPG_gen_graph.ipynb : This generates three graphs based on data we get from our training session.
+*DDPG_gen_graph.ipynb : This generates three graphs based on data we get from our training session.
 
 ## Getting Started
 
