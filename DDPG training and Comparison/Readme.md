@@ -30,11 +30,11 @@ Libraries required:
 
 ### Installing
 
-*Install python on your systems (Annaconda is easy to configure the versions of python and installed libraries)
+* Install python on your systems (Annaconda is easy to configure the versions of python and installed libraries)
 
 OR
 
-*You can upload rlinputdata.csv and DDPG_train.ipynb to google colab or use Jupyter notebooks
+* You can upload rlinputdata.csv and DDPG_train.ipynb to google colab or use Jupyter notebooks
 
 Then,
 
