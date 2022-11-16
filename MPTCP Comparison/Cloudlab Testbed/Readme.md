@@ -1,4 +1,4 @@
-# Code for cloudlab
+# Instruction for cloudlab testbed
 
 Before starting this setup is referenced from https://witestlab.poly.edu/blog/mpcc-online-learning-multipath-congestion-control/ developed by Ashutosh Srivastava.
 
@@ -351,3 +351,22 @@ To get data required for training for DDPG Model is to extract it from the kerne
 sometimes the kernel logs are stored in /var/log/kern.log, So be careful
 
 ```
+
+
+
+
+# Section 4: To upload all the data from our CLoudlab node to our linux system
+
+
+```python
+RUn this line of code in your linux terminal. You should change the SSh server URL from your cloublab network page
+
+sudo scp -i my_key dsatish@c220g2-010626.wisc.cloudlab.us:* .
+
+
+
+
+```
+
+
+
