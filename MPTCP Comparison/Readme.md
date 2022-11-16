@@ -1,12 +1,14 @@
 # Project Title
 
-Simple overview of use/purpose.
+Experimental Implementation of new Multipath TCP and AQM in FreeBSD
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+In this part of the codebase, we gather data from our cloudlab testbed and run visual comparisons to draw conclusions on the performance of various mptcp algorithms
 
 ## Getting Started
+
+
 
 ### Dependencies
 
