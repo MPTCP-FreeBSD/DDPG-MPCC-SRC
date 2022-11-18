@@ -1,6 +1,6 @@
-# Experimental Implementation of new Multipath TCP and AQM in FreeBSD
+# DDPG plugin for MPCC
 
-In this we run our DDPG and compare results with MPCC.
+In this we plug DDPG into MPCC and compare results with vanilla MPCC.
 
 ## Description
 
@@ -46,17 +46,14 @@ Install dependent libraries for running the python notebook.
 
 
 
-## Authors
-
-Contributors names and contact info
-
-Leaders:
+## Investigators
 
 - Shiva Pokhrel <shiva.pokhrel@deakin.edu.au>
 - Jonathan Kua <jonathan.kua@deakin.edu.au>
-
-Members:
-
 - Deol Satish <dsatish@deakin.edu.au>
 
+## References
 
+[1] Gilad, Tomer, Neta Rozen-Schiff, P. Brighten Godfrey, Costin Raiciu, and Michael Schapira. "MPCC: online learning multipath transport." In Proceedings of the 16th International Conference on emerging Networking EXperiments and Technologies, pp. 121-135. 2020.
+
+[2] S. R. Pokhrel and A. Walid, "Learning to Harness Bandwidth with Multipath Congestion Control and Scheduling," in IEEE Transactions on Mobile Computing, 2021, doi: 10.1109/TMC.2021.3085598 
