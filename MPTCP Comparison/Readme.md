@@ -1,6 +1,6 @@
 # Project Title
 
-Experimental Implementation of new Multipath TCP and AQM in FreeBSD
+Extending MPCC: Learning FRom Experience
 
 ## Description
 
@@ -39,18 +39,10 @@ Install dependent libraries for running the python notebook.
 * Execute Run all to execute both graph_buffer.ipynb and graph_loss.ipynb and ddpg_data_gen
 
 
+## Investigators:
 
-## Authors
-
-Contributors names and contact info
-
-Leaders:
-
-- Shiva Pokhrel <shiva.pokhrel@deakin.edu.au>
+- Shiva Raj Pokhrel <shiva.pokhrel@deakin.edu.au>
 - Jonathan Kua <jonathan.kua@deakin.edu.au>
-
-Members:
-
 - Deol Satish <dsatish@deakin.edu.au>
 
 
