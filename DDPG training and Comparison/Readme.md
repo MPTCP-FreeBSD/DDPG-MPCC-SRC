@@ -51,6 +51,8 @@ Install dependent libraries for running the python notebook.
 - [Shiva Pokhrel](https://www.deakin.edu.au/about-deakin/people/shiva-pokhrel) <shiva.pokhrel@deakin.edu.au>
 - Jonathan Kua <jonathan.kua@deakin.edu.au>
 - Deol Satish <dsatish@deakin.edu.au>
+- Sebnem Ozer (COMCAST, Charter)
+- Anwar Walid (Amazon Science)
 
 ## References
 
