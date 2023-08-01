@@ -8,7 +8,7 @@ We have the following folders:
 
 Researchers: 
 - [Shiva Raj Pokhrel](https://www.deakin.edu.au/about-deakin/people/shiva-pokhrel) <shiva.pokhrel@deakin.edu.au>
--Jonathan Kua
+- Jonathan Kua
 - Deol Satish
 - Sebnem Ozer (COMCAST, Charter)
 - Anwar Walid (Amazon Science)
