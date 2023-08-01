@@ -1,8 +1,10 @@
 # COMCAST Innovation Fund: DDPG plugin for MPCC
 
-In this module, we design and implement pluggable DDPG into MPCC and compare results with the vanilla MPCC.
+In this module, we design and implement pluggable DDPG into MPCC and compare results with the vanilla MPCC. 
 
 ## Description
+
+We present a novel experience-driven MPCC (Multipath Performance oriented Congestion Control) approach, which is a novel Deep Learning based architecture for high-performance multipath congestion management. Our solution employs Deep Deterministic Policy Gradient (DDPG) with online convex optimization to achieve the impeding joint pursuits of fairness and exemplary performance in challenging multipath congestion control contexts. In our experimental tests with a kernel implementation over realistic network settings, the proposed DDPG-MPCC surpasses state-of-the-art MPTCPs. In testing with a kernel implementation on simulated networks, the proposed DDPG-MPCC surpasses state-of-the-art data protocols by a wide margin. 
 
 - rlinputdata.csv : This contains infomation about various environment condition and transmission rates while running MPCC. This will allow us to train our DDPG model to choose the most optimium rate in a particular environment.
 
