@@ -1,4 +1,4 @@
-# DDPG plugin for MPCC
+# COMCAST Innovation Fund: DDPG plugin for MPCC
 
 In this module, we design and implement pluggable DDPG into MPCC and compare results with the vanilla MPCC.
 
