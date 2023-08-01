@@ -6,7 +6,7 @@ We have the following folders:
 
 2.MPCC Comparison: In this folder we compare the various MPTCP algorithms by visualizaing the data we get in various scenarios. It has the setup for the Cloudlab testbed to extract testing data for our observations
 
-Researchers: Shiva Raj Pokhrel, Jonathan Kua and Deol Satish
+Researchers: [Shiva Raj Pokhrel](https://www.deakin.edu.au/about-deakin/people/shiva-pokhrel) <shiva.pokhrel@deakin.edu.au>, Jonathan Kua and Deol Satish
 
 
 ## References
