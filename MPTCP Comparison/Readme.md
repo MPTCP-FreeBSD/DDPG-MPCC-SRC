@@ -4,7 +4,7 @@ DDPG-MPCC: Experience Driven Multipath Performance Oriented Congestion Control
 
 ## Description
 
-We design, implement and  present an experience-driven MPCC (Multipath Performance oriented Congestion Control) approach, which is a novel Deep Learning based architecture for high-performance multipath congestion management. Our solution employs Deep Deterministic Policy Gradient (DDPG) with online convex optimization to achieve the impeding joint pursuits of fairness and exemplary performance in challenging multipath congestion control contexts. In our experimental tests with a kernel implementation over realistic network settings, the proposed DDPG-MPCC surpasses state-of-the-art MPTCPs. %In testing with a kernel implementation on simulated networks, the proposed DDPG-MPCC surpasses state-of-the-art data protocols by a wide margin. 
+We design, implement and  present an experience-driven MPCC (Multipath Performance oriented Congestion Control) approach, which is a novel Deep Learning based architecture for high-performance multipath congestion management. Our solution employs Deep Deterministic Policy Gradient (DDPG) with online convex optimization to achieve the impeding joint pursuits of fairness and exemplary performance in challenging multipath congestion control contexts. In our experimental tests with a kernel implementation over realistic network settings, the proposed DDPG-MPCC surpasses state-of-the-art MPTCPs. In testing with a kernel implementation on simulated networks, the proposed DDPG-MPCC surpasses state-of-the-art data protocols by a wide margin. 
 
 ## Getting Started
 
