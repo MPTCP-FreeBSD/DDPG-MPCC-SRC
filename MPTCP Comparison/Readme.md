@@ -1,4 +1,4 @@
-# Project Title: COMCAST Innovation Fund
+# Project COMCAST Innovation Fund
 
 DDPG-MPCC: Experience Driven Multipath Performance Oriented Congestion Control
 
