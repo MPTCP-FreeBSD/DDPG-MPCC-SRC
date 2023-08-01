@@ -13,4 +13,5 @@ Researchers: [Shiva Raj Pokhrel](https://www.deakin.edu.au/about-deakin/people/s
 
 [1] Gilad, Tomer, Neta Rozen-Schiff, P. Brighten Godfrey, Costin Raiciu, and Michael Schapira. "MPCC: online learning multipath transport." In Proceedings of the 16th International Conference on emerging Networking EXperiments and Technologies, pp. 121-135. 2020.
 
-[2] S. R. Pokhrel and A. Walid, "Learning to Harness Bandwidth with Multipath Congestion Control and Scheduling," in IEEE Transactions on Mobile Computing, 2021, doi: 10.1109/TMC.2021.3085598 
+[2] S. R. Pokhrel and A. Walid, "[Learning to Harness Bandwidth with Multipath Congestion Control and Scheduling](https://ieeexplore.ieee.org/abstract/document/9444785)," in IEEE Transactions on Mobile Computing, 2021, doi: 10.1109/TMC.2021.3085598 
+
