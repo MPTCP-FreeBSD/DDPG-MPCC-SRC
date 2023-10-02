@@ -11,6 +11,7 @@ Researchers:
 - Jonathan Kua
 - Deol Satish
 - Sebnem Ozer (COMCAST, Charter)
+- Howe, Jeff (COMCAST)
 - Anwar Walid (Amazon Science)
 
 
