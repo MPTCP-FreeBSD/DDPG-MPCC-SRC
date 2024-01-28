@@ -1,5 +1,5 @@
 # DDPG-MPCC: An Experience Driven Multipath Performance Oriented Congestion Control
-## This research work is funded by Comcast Corporation, COmcast Innovation Fund 2022.
+## This research work is funded by Comcast Corporation, Comcast Innovation Fund 2022.
 We have the following folders:
 
 1.DDPG training and Comparison: It contains the Deep Dterministic Policy Gradient code which works on extracted data and create visualizations to observe its performance
