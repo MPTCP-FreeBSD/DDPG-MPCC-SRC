@@ -2,9 +2,11 @@
 ## This research work is funded by Comcast Corporation, Comcast Innovation Fund 2022.
 We have the following folders:
 
-1. DDPG training and Comparison: It contains the Deep Dterministic Policy Gradient code which works on extracted data and create visualizations to observe its performance
+1. DDPG training and Comparison: It contains the Deep Dterministic Policy Gradient code which works on extracted data and create visualizations to observe its performance.
 
-2. MPCC Comparison: In this folder we compare the various MPTCP algorithms by visualizaing the data we get in various scenarios. It has the setup for the Cloudlab testbed to extract testing data for our observations
+2. MPCC [1] Comparison: In this folder we compare the various MPTCP algorithms by visualizaing the data we get in various scenarios. It has the setup for the Cloudlab testbed to extract testing data for our observations
+
+3. Our earlier results of experience driven works can be found in [2] and the details of these work are presented in [3].
 
 Researchers: 
 - [Shiva Raj Pokhrel](https://www.deakin.edu.au/about-deakin/people/shiva-pokhrel) <shiva.pokhrel@deakin.edu.au>
@@ -20,4 +22,6 @@ Researchers:
 [1] Gilad, Tomer, Neta Rozen-Schiff, P. Brighten Godfrey, Costin Raiciu, and Michael Schapira. "MPCC: online learning multipath transport." In Proceedings of the 16th International Conference on emerging Networking EXperiments and Technologies, pp. 121-135. 2020.
 
 [2] S. R. Pokhrel and A. Walid, "[Learning to Harness Bandwidth with Multipath Congestion Control and Scheduling](https://ieeexplore.ieee.org/abstract/document/9444785)," in IEEE Transactions on Mobile Computing, 2021, doi: 10.1109/TMC.2021.3085598 
+
+[3] S. R. Pokhrel; Kua, J.; Satish, D.; Ozer, S.; Howe, J.; Walid, A. DDPG-MPCC: An Experience Driven Multipath Performance Oriented Congestion Control. Future Internet 2024, 16, 37. https://doi.org/10.3390/fi16020037
 
